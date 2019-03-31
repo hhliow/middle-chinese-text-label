@@ -947,8 +947,8 @@ cix triang myonh zriung tok bienx ghuok. cix yat: cjyox triung sinh, siex ngieh,
 齊景公問政於孔子。孔子對曰、君君、臣臣、父父、子子。公曰、善哉、信如君不君、臣不臣、父不父、子不子、雖有粟、吾得而食諸。
 ze kiengx kung myonh cjengh qio khungx cix. khungx cix tuaih yat: kyon kyon, zjin zjin, byox byox, cix cix. kung yat: zjenx cai, sinh njo kyon pyot kyon, zjin pyot zjin, byox pyot byox, cix pyot cix, syi iux syuk, ngo tok nji zsjik cjo?
 
-子曰、片言可以折獄、其由也與。子路無宿諾。
-cix yat: phenh ngian khax jix cjet ngyuk, gi ju jax jo. cix loh myo siuk nak.
+子曰、片言可以折獄者、其由也與。子路無宿諾。
+cix yat: phenh ngian khax jix cjet ngyuk cjax, gi ju jax jo. cix loh myo siuk nak.
 
 子曰、聽訟、吾猶人也、必也使無訟乎。
 cix yat: theng zsyungh, ngo ju njin jax, pjit jax srix myo zsyungh gho.
@@ -1103,8 +1103,8 @@ cix yat: kyon cix ghua nji pyot dung, sieux njin dung nji pyot ghua.
 子貢問曰、鄉人皆好之、何如。子曰、未可也。鄉人皆惡之、何如。子曰、未可也。不如鄉人之善者好之、其不善者惡之。
 cix kungh myonh yat: hiang njin krai hauh cji, gha njo? cix yat: myoih khax jax. hiang njin krai qoh cji, gha njo? cix yat: myoih khax jax. pyot njo hiang njin cji zjenx cjax hauh cji, gi pyot zjenx cjax qoh cji.
 
-子曰、君子易事而難說、說之不以道、不說也、及其使人也、器之。小人難事而易說也、說之雖不以道、說也、及其使人也、求備焉。
-cix yat: kyon cix jeh zrih nji nan jyet, jyet cji pyot jix daux, pyot jyet jax. gip gi srix njin jax, khiih cji. sieux njin nan zrih nji jeh jyet jax, jyet cji syi pyot jix daux, jyet jax. gip gi srix njin jax, giu biih ien.
+子曰、君子易事而難說也、說之不以道、不說也、及其使人也、器之。小人難事而易說也、說之雖不以道、說也、及其使人也、求備焉。
+cix yat: kyon cix jeh zrih nji nan jyet jax, jyet cji pyot jix daux, pyot jyet jax. gip gi srix njin jax, khiih cji. sieux njin nan zrih nji jeh jyet jax, jyet cji syi pyot jix daux, jyet jax. gip gi srix njin jax, giu biih ien.
 
 子曰、君子泰而不驕、小人驕而不泰。
 cix yat: kyon cix thad nji pyot kieu, sieux njin kieu nji pyot thad.
