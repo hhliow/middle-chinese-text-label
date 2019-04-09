@@ -810,7 +810,7 @@ sen cinh deh zjip qjit
 cix yat: sen cinh qio lex ngruk, jax njin jax, ghux cinh qio lex ngruk, kyon cix jax. njo jyungh cji, cok ngo zyung sen cinh.
 
 子曰、從我於陳蔡者、皆不及門也。德行、顏淵、閔子騫、冉伯牛、仲弓、言語、宰我、子貢、政事、冉有、季路、文學、子游、子夏。
-cix yat: cyungh ngax qio drin chad cjax, krai pyot gip muon jax. tok ghrangh, ngran quen, minx cix khien, njenx prak ngiu, driungh kiung; ngian ngiox, caix ngax, cix kungh; cjengh zrih, njemx iux, kyih loh; myon ghruk, cix ju, cix ghrax.
+cix yat: zyungh ngax qio drin chad cjax, krai pyot gip muon jax. tok ghrangh, ngran quen, minx cix khien, njemx prak ngiu, driungh kiung; ngian ngiox, caix ngax, cix kungh; cjengh zrih, njemx iux, kyih loh; myon ghruk, cix ju, cix ghrax.
 
 子曰、回也非助我者也、於吾言無所不說。
 cix yat: ghuai jax pyoi zrioh ngax cjax jax, qio ngo ngian myo sriox pyot jyet.
@@ -819,7 +819,7 @@ cix yat: ghuai jax pyoi zrioh ngax cjax jax, qio ngo ngian myo sriox pyot jyet.
 cix yat: hrauh cai minx cix khien, njin pyot krenh qio gi byox mux kuon dex cji ngian.
 
 南容三復白圭、孔子以其兄之子妻之。
-nom jyung samh biuk brak kue, khungx cix jix gi hyung cji cix cheh cji.
+nom jyung samh biuk brak kue, khungx cix jix gi hyeng cji cix cheh cji.
 
 季康子問弟子孰爲好學、孔子對曰、有顏回者好學、不幸短命死矣、今也則亡。
 kjyih khang cix myonh dex cix zjuk ye hauh ghruk, khungx cix tuaih yat: iux ngran ghuai cjax hauh ghruk, pyot ghrengx tuanx miengh siix ix. kim jax cok myo.
@@ -858,16 +858,16 @@ kjyih zjex piuh qio cju kung, nji giu jax yeh cji zyox liemh nji byoh qjek cji. 
 zre jax ngyo, srim jax lox, srii jax bjek, ju jax nganh.
 
 子曰、回也其庶乎、屢空。賜不受命、而貨殖焉、億則屢中。
-cix yat: ghuai jax gi sjoh gho, lyoh khung. sieh pyot zjux miengh, nji huah zjik ien, qik cok lyoh triungh.
+cix yat: ghuai jax gi sjoh gho, lyoh khungh. sieh pyot zjux miengh, nji huah zjik ien, qik cok lyoh triungh.
 
 子張問善人之道。子曰、不踐迹、亦不入於室。
-cix triang myonh zjenx njin cji daux. cix yat: pyot zienx cjek, jek pyot njip qio sjit.
+cix triang myonh zjenx njin cji daux. cix yat: pyot zienx ciek, jek pyot njip qio sjit.
 
 子曰、論篤是與、君子者乎、色莊者乎。
-cix yat: luonh tuuk zjex jox, kyon cix cjax gho? srik criang cjax gho?
+cix yat: luonh tuuk zjex jo, kyon cix cjax gho? srik criang cjax gho?
 
 子路問聞斯行諸、子曰、有父兄在、如之何其聞斯行之。冉有問聞斯行諸、子曰、聞斯行之。公西華曰、由也問聞斯行諸、子曰有父兄在、求也問聞斯行諸、子曰聞斯行之、赤也惑、敢問。子曰、求也退、故進之、由也兼人、故退之。
-cix loh myonh myon sie ghrang cjo, cix yat, iux byox hyeng zaix, njo cji gha gi myon sie ghrang cji. njemx iux myonh myon sie ghrang cjo, cix yat, myon sie ghrang cji. kung se ghrua yat: ju jax myonh myon myon sie ghrang cjo, cix yat iux byox hyeng zaix, giu jax myonh myon sie ghrang cjo, cix yat myon sie ghrang cji, chjek jax ghuok, kamx myonh? cix yat: giu jax thuaih, koh cinh cji; ju jax kem njin, koh thuaih cji.
+cix loh myonh myon sie ghrang cjo, cix yat, iux byox hyeng zaix, njo cji gha gi myon sie ghrang cji. njemx iux myonh myon sie ghrang cjo, cix yat, myon sie ghrang cji. kung se ghrua yat: ju jax myonh myon sie ghrang cjo, cix yat iux byox hyeng zaix, giu jax myonh myon sie ghrang cjo, cix yat myon sie ghrang cji, chjek jax ghuok, kamx myonh? cix yat: giu jax thuaih, koh cinh cji; ju jax kem njin, koh thuaih cji.
 
 子畏於匡、顏淵後。子曰、吾以女爲死矣。曰、子在、回何敢死。
 cix qyoih qio khyang, ngran quen ghux. cix yat: ngo jix njox ye siix ix. yat: cix zaix, ghuai gha kamx siix?
