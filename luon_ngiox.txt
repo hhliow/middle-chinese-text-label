@@ -1287,7 +1287,7 @@ cix yat: sieh jax, njox jix jo ye ta ghruk nji cjih cji cjax jo? tuaih yat: njen
 cix yat: ju, trie tok cjax sienx ix.
 
 子曰、無爲而治者、其舜也與。夫何爲哉、恭己正南面而已矣。
-cix yat: myo ye nji dri cjax, gi sjynh jax jo. byo gha ye cai, kyung kix cjengh nom mjenh nji jix ix.
+cix yat: myo ye nji drih cjax, gi sjynh jax jo. byo gha ye cai, kyung kix cjengh nom mjenh nji jix ix.
 
 子張問行。子曰、言忠信、行篤敬、雖蠻貊之邦行矣。言不忠信、行不篤敬、雖州里行乎哉。立、則見其參於前也、在輿、則見其倚於衡也、夫然後行。子張書諸紳。
 cix triang myonh ghrangh. cix yat: ngian triung sinh, ghrangh tuuk kiengh, syi mran mrak cji prung ghrang ix; ngian pyot triung sinh, ghrangh pyot tuuk kiengh, syi cju lix ghrang gho cai? lip, cok kenh gi chom qio zen jax; zaix jo, cok kenh gi qiex qio ghrang jax, byo njen ghux ghrang. cix triang sjo cjo sjin.
@@ -1322,8 +1322,8 @@ cix yat: kiung ziih ghux nji bak crek qio njin, cok yanh qyanh ix.
 子曰、不曰如之何如之何者、吾末如之何也已矣。
 cix yat: pyot yat "njo cji gha" "njo cji gha" cjax, ngo muat njo cji gha jax jix ix.
 
-子曰、羣居終日、言不及義、好行小恚、難矣哉。
-cix yat: gyon kio cjung njit, ngian pyot gip ngieh, hauh ghrang sieux qjyeh, nan ix cai.
+子曰、羣居終日、言不及義、好行小慧、難矣哉。
+cix yat: gyon kio cjung njit, ngian pyot gip ngieh, hauh ghrang sieux ghueh, nan ix cai.
 
 子曰、君子義以爲質、禮以行之、孫以出之、信以成之、君子哉。
 cix yat: kyon cix ngieh jix ye cjit, lex jix ghrang cji, suonh jix chjyt cji, sinh jix zjeng cji, kyon cix cai.
@@ -1337,7 +1337,7 @@ cix yat: kyon cix zit muot sjed nji mjeng pyot chjing ien.
 子曰、君子求諸己、小人求諸人。
 cix yat: kyon cix giu cjo kix, sieux njin giu cjo njin.
 
-子曰、君子兢而不爭、羣而不黨。
+子曰、君子矜而不爭、羣而不黨。
 cix yat: kyon cix king nji pyot creng, gyon nji pyot tangx.
 
 子曰、君子不以言舉人、不以人廢言。
