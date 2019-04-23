@@ -125,7 +125,7 @@ qai kung myonh yat: gha ye cok mjin biuk? khungx cix tuaih yat: kiox drik choh c
 kjyih khang cix myonh: srix mjin kiengh triung jix khyanh, njo cji gha? cix yat: lim cji jix criang cok kiengh, hrauh zi cok triung, kiox zjenx nji krau pyot nong cok khyanh.
 
 或謂孔子曰、子奚不爲政。子曰、書云孝乎、惟孝友于兄弟、施於有政、是亦爲政、奚其爲爲政。
-ghuok yoih khungx cix yat: cix ghe pyot ye cjengh? cix yat: sjo yon hrauh gho? jyi hrauh iux yo hyeng dex, sje qio iux cjengh, zjex jek ye cjengh. ghe gi yeh ye cjengh?
+ghuok yoih khungx cix yat: cix ghe pyot ye cjengh? cix yat: sjo yon hrauh gho? jyi hrauh iux yo hyeng dex, sje qio iux cjengh, zjex jek ye cjengh. ghe gi ye ye cjengh?
 
 子曰、人而無信、不知其可也。大車無輗、小車無軏、其何以行之哉？
 cix yat: njin nji myo sinh, pyot trie gi khax jax. dad chja myo nge, sieux chja myo ngyat, gi gha jix ghrang cji cai?
@@ -458,7 +458,7 @@ cix yat: ze qjit pienh, cjiih qio lox, lox qjit pienh, cjiih qio daux.
 cix yat: ko pyot ko, ko cai ko cai.
 
 宰我問曰、仁者雖告之曰、井有仁焉、其從之也、子曰、何爲其然也、君子可逝也、不可陷也、可欺也、不可罔也。
-caix ngax myonh yat: njin cjax syi kauh cji yat, ciengx iux njin ien, gi zyung cji jax? cix yat: gha yeh gi njen jax? kyon cix khax zjed jax, pyot khax ghremh jax, khax khi jax, pyot khax myangx jax.
+caix ngax myonh yat: njin cjax syi kauh cji yat, ciengx iux njin ien, gi zyung cji jax? cix yat: gha ye gi njen jax? kyon cix khax zjed jax, pyot khax ghremh jax, khax khi jax, pyot khax myangx jax.
 
 子曰、君子博學於文、約之以禮、亦可以弗畔矣夫。
 cix yat: kyon cix pak ghruk qio myon, qiak cji jix lex, jek khax jix pyot buanh ix byo.
@@ -1239,7 +1239,7 @@ cix yat: kiih pyot chjing gi lik, chjing gi tok jax.
 ghuok yat: jix tok pauh qyanh, gha njo? cix yat: gha jix pauh tok? jix drik pauh qyanh, jix tok pauh tok.
 
 子曰、莫我知也夫。子貢曰、何爲其莫知子也。子曰、不怨天、不尤人、下學而上達、知我者其天乎。
-cix yat: mak ngax trie jax byo. cix kungh yat: gha yeh gi mak trie cix jax? cix yat: pyot qyanh then, pyot iu njin, ghrax ghruk nji zjangh dat, trie ngax cjax gi then gho?
+cix yat: mak ngax trie jax byo. cix kungh yat: gha ye gi mak trie cix jax? cix yat: pyot qyanh then, pyot iu njin, ghrax ghruk nji zjangh dat, trie ngax cjax gi then gho?
 
 公伯寮愬子路於季孫。子服景伯以告曰、夫子固有惑志於公伯寮、吾力猶能肆諸市朝。子曰、道之將行也與、命也。道之將廢也與、命也。公伯寮其如命何。
 kung prak leu soh cix loh qio kjyih suon. cix biuk kiengx prak jix kuuk yat: pyo cix koh iux ghuok cjih qio kung prak leu, ngo lik ju nong siih cjo zjix drieu. cix yat: daux cji ciang ghrang jax jo, miengh jax; daux cji ciang pyad jax jo, miengh jax. kung prak leu gi njo miengh gha?
