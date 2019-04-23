@@ -1429,7 +1429,7 @@ khungx cix yat: kyon cix iux sam kraih: sjeuh cji zji, huet khioih myoih dengh, 
 khungx cix yat: kyon cix iux sam qyoih: qyoih then miengh, qyoih dad njin, qyoih sjengh njin cji ngian. sieux njin pyot trie then miengh nji pyot qyoih jax, ghrap dad njin, myox sjengh njin cji ngian.
 
 孔子曰、生而知之者上也、學而知之者次也、困而學之、又其次也。困而不學、民斯爲下矣。
-khungx cix yat: srieng nji trie cji cjax zjangx jax, ghruk nji trie cji cjax chiih jax, khuonh nji ghruk cji, iuh gi chiih jax. khuonh nji pyot ghruk, mjin sie ye ghrax ix.
+khungx cix yat: srieng nji trie cji cjax zjangh jax, ghruk nji trie cji cjax chiih jax, khuonh nji ghruk cji, iuh gi chiih jax. khuonh nji pyot ghruk, mjin sie ye ghrax ix.
 
 孔子曰、君子有九思、視思明、聽思聦、色思温、貌思恭、言思忠、事思敬、疑思問、忿思難、見得思義。
 khungx cix yat: kyon cix iux kiux si: zjiih si mieng, theng si chung, srik si quon, mrauh si kyung, ngian si triung, zrih si kiengh, ngi si myonh, phyonx si nanh, kenh tok si ngieh.
@@ -1456,7 +1456,7 @@ jang huah jyuk kenh khungx cix, khungx cix pyot kenh. kyoi khungx cix duon. khun
 cix yat: siengh siang gionx jax, zsip siang yanx jax.
 
 子曰、唯上知與下愚不移。
-cix yat: jyi zjangx trieh jox ghrax ngyo pyot je.
+cix yat: jyi zjangh trieh jox ghrax ngyo pyot je.
 
 子之武城、聞弦歌之聲。夫子莞爾而笑曰、割雞、焉用牛刀。子游對曰、昔者偃也聞諸夫子曰、君子學道則愛人、小人學道則易使也。子曰、二三子、偃之言是也、前言戲之耳。
 cix cji myox zjeng, myon ghen ka cji sjeng. pyo cix ghruanx njex nji sieuh yat: kat ke, qien jyungh ngiu tau? cix ju tuaih yat: siek cjax qianx jax myon cjo pyo cix yat: kyon cix ghruk daux cok qaih njin, sieux njin ghruk daux cok jeh srix jax. cix yat: njiih sam cix, qianx cji ngian zjex jax, zen ngian hieh cji njix.
@@ -1516,10 +1516,10 @@ caix ngax myonh sam nen cji sang, ki jix kiux ix, kyon cix sam nen pyot ye lex, 
 cix yat: praux zsjik cjung njit, myo sriox jyungh sim, nan ix cai. pyot iux pak jek cjax gho? ye cji ju ghen gho jix.
 
 子路曰、君子尚勇乎。子曰、君子義以爲上、君子有勇而無義爲亂、小人有勇而無義爲盜。
-cix loh yat: kyon cix zjangh jyungx gho? cix yat: kyon cix ngieh jix ye zjangx. kyon cix iux jyungx nji myo ngieh ye luanh, sieux njin iux jyungx nji myo ngieh ye dauh.
+cix loh yat: kyon cix zjangh jyungx gho? cix yat: kyon cix ngieh jix ye zjangh. kyon cix iux jyungx nji myo ngieh ye luanh, sieux njin iux jyungx nji myo ngieh ye dauh.
 
 子貢曰、君子亦有惡乎。子曰、有惡。惡稱人之惡者、惡居下流而訕上者、惡勇而無禮者、惡果敢而窒者。曰、賜也亦有惡乎。惡徼以爲知者、惡不孫以爲勇者、惡訐以爲直者。
-cix kungh yat: kyon cix jek iux qoh gho? cix yat: iux qoh. qoh chjing njin cji qak cjax, qoh kio ghrax liu nji sranh zjangx cjax, qoh jyungx nji myo lex cjax, qoh kuax kamx nji trit cjax. yat: sieh jax jek iux qoh gho? qoh keu jix ye trieh cjax, qoh pyot suonh jix ye jyungx cjax, qoh kiat jix ye drik cjax.
+cix kungh yat: kyon cix jek iux qoh gho? cix yat: iux qoh. qoh chjing njin cji qak cjax, qoh kio ghrax liu nji sranh zjangh cjax, qoh jyungx nji myo lex cjax, qoh kuax kamx nji trit cjax. yat: sieh jax jek iux qoh gho? qoh keu jix ye trieh cjax, qoh pyot suonh jix ye jyungx cjax, qoh kiat jix ye drik cjax.
 
 子曰、唯女子與小人爲難養也。近之則不孫、遠之則怨。
 cix yat: jyi nriox cix jox sieux njin ye nan jangx jax. gionh cji cok pyot suonh, yanh cji cok qyanh.
@@ -1531,7 +1531,7 @@ cix yat: nen siih zjip nji kenh qoh ien, gi cjung jax jix.
 myoi cix deh zjip pret
 
 微子去之、箕子爲之奴、比干諫而死。孔子曰、殷有三仁焉。
-myoi cix khioh cji, ki cix yeh cji no, pjiix kan kranh nji siix. khungx cix yat: qion iux sam njin ien.
+myoi cix khioh cji, ki cix ye cji no, pjiix kan kranh nji siix. khungx cix yat: qion iux sam njin ien.
 
 柳下惠爲士師、三黜。人曰、子未可以去乎。曰、直道而事人、焉往而不三黜。枉道而事人、何必去父母之邦。
 liux ghrax ghueh ye zrix srii, samh thryt. njin yat: cix myoih khax jix khioh gho? yat: drik daux nji zrih njin, qien yangx nji pyot samh thryt? qyangx daux nji zrih njin, gha pjit khioh byox mux cji prung?
